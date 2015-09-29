@@ -47,7 +47,7 @@
         "to": {
           "kind": "Service",
           "name": "${JENKINS_SERVICE_NAME}"
-        },
+        }
       }
     },
     {
